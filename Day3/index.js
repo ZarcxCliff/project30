@@ -27,7 +27,7 @@ const questions = [
 		],
 	},
 	{
-		question: "Which animal is the Fastext animal in the world?",
+		question: "Which animal is the Fastest animal in the world?",
 		answers: [
 			{ text: "shark", correct: false },
 			{ text: "Tiger", correct: false },
@@ -54,7 +54,7 @@ const questions = [
 		],
 	},
 	{
-		question: "The deepestocean in the world?",
+		question: "The deepest ocean in the world?",
 		answers: [
 			{ text: "Indian", correct: false },
 			{ text: "Atlantic", correct: false },
