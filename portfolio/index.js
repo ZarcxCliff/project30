@@ -1,5 +1,5 @@
 // toggle icon navbar
-let menuIcon = document.querrySelector("#menu-icon");
+let menuIcon = document.querySelector("#menu-icon");
 let navbar = document.querySelector(".navbar");
 
 menuIcon.onclick = () => {
