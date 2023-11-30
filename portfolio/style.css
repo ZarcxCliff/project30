@@ -398,14 +398,14 @@ span {
 	.progress:nth-child(3)
 	.bar
 	span {
-	width: 65%;
+	width: 70%;
 }
 .skills-column:nth-child(1)
 	.skills-content
 	.progress:nth-child(4)
 	.bar
 	span {
-	width: 55%;
+	width: 65%;
 }
 .skills-column:nth-child(2)
 	.skills-content
@@ -419,14 +419,14 @@ span {
 	.progress:nth-child(2)
 	.bar
 	span {
-	width: 63%;
+	width: 70%;
 }
 .skills-column:nth-child(2)
 	.skills-content
 	.progress:nth-child(3)
 	.bar
 	span {
-	width: 65%;
+	width: 70%;
 }
 .skills-column:nth-child(2)
 	.skills-content
